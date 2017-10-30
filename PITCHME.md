@@ -25,7 +25,7 @@ Adiós!
 Facebook
 
 ---
-
+```
 package main
 
 import "fmt"
@@ -33,7 +33,7 @@ import "fmt"
 func main() {
     fmt.Println("Hello, world!")
 }
-
+```
 @[1]
 @[3] 
 @[5-7]
