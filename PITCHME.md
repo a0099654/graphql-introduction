@@ -14,7 +14,11 @@ Adiós!
 
 ---
 
-GraphQL
+- Java
+- JavaScript |
+- Kotlin     |
+- Go         |
+- Scala      |
 
 +++
 
