@@ -28,17 +28,20 @@ Facebook
 
 Goodbye!
 
+@[1]
 package main
 
+@[3] 
 import "fmt"
 
+@[5-7]
 func main() {
     fmt.Println("Hello, world!")
 }
 
-@[1]
-@[3]
-@[5-7]
+
+
+
 
 +++
 
