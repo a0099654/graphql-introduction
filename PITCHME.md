@@ -149,7 +149,7 @@ export const postType = new GraphQLObjectType({
 
 Mongoose Model
 
-- To insert to MongoDB 
+To insert to MongoDB 
 
 ```js
 import mongoose from 'mongoose';
@@ -179,7 +179,7 @@ export default mongoose.model('post', postSchema);
 
 Query 
 
-- To get data from MongoDB 
+To get data from MongoDB 
 
 ```js
 import {
