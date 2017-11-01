@@ -209,6 +209,10 @@ export default {
 
 ---
 
+Mutation
+
+To create and modify data to and from MongoDB 
+
 ```js
 import {
     GraphQLNonNull,
