@@ -8,7 +8,7 @@ What is GraphQL?
 
 - Alternative to REST API                                         |
 
-- Connect to multiple DB in single query                          |
+- Connect to multiple Databases in single query                   |
 
 +++
 
@@ -42,19 +42,16 @@ It supports multiple languages
 
 Demo
 
-
 +++
 
 Dependencies 
-- NodeJS                    
-- ExpressJS               | 
-- Express-graphql         |
-- GraphQL                 |
-- Mongoose (ODM)          |
-- Babel (Transpiler)      |
-- Nodemon                 |
-- MongoDB (Database)      |
-- Yarn (Package Manager)  |
+- NodeJS (JavaScript runtime)     
+- MongoDB (Database)          | 
+- Mongoose (ODM)              |           
+- ExpressJS                   | 
+- GraphQL                     |
+- Babel (Transpiler)          |
+- Yarn (Package Manager)      |
 
 ---
 
