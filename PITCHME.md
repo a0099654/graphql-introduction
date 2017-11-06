@@ -12,6 +12,12 @@ What is GraphQL?
 
 +++
 
+
+- Rest API vs GraphQL
+
+
++++
+
 - Strongly Typed Runtime      
 
 - Queries and Mutation        |
