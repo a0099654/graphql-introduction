@@ -40,10 +40,6 @@ It supports multiple languages
 
 ---
 
-Demo
-
-+++
-
 Dependencies 
 - NodeJS (JavaScript runtime)     
 - MongoDB (Database)          | 
@@ -55,6 +51,9 @@ Dependencies
 
 ---
 
+Demo
+
++++
 package.json
 
 ```json
