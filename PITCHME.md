@@ -250,8 +250,13 @@ export default {
 
 What's next ?
 - Testing (JEST)
-- Interface        |
-- Fragment         |
+- Interface             |
+- Fragment              |
+- Batch and Loader      |
+- HTTP Caching(Client)  |
+- Relay + Apollo        |
+- Security              |
+- Defered queries       |
 
 +++
 
